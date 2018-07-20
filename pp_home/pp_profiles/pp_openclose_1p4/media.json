@@ -1,0 +1,35 @@
+{
+ "issue": "1.4.1", 
+ "tracks": [
+  {
+   "animate-begin": "", 
+   "animate-clear": "no", 
+   "animate-end": "", 
+   "background-colour": "", 
+   "background-image": "", 
+   "display-show-background": "yes", 
+   "display-show-text": "no", 
+   "duration": "", 
+   "links": "", 
+   "message-colour": "#ffffff", 
+   "message-font": "Helvetica 20 bold", 
+   "message-justify": "left", 
+   "message-x": "", 
+   "message-y": "", 
+   "plugin": "", 
+   "show-control-begin": "", 
+   "show-control-end": "", 
+   "text": "You have successfuly triggered a show off a button.\n\nThe show will stop when you release the button.\n\nA more realistic example might play a single audio track or a video and be operated from a lid or a door.", 
+   "thumbnail": "", 
+   "title": "Welcome", 
+   "track-ref": "", 
+   "track-text": "", 
+   "track-text-colour": "", 
+   "track-text-font": "", 
+   "track-text-justify": "left", 
+   "track-text-x": "0", 
+   "track-text-y": "0", 
+   "type": "message"
+  }
+ ]
+}
