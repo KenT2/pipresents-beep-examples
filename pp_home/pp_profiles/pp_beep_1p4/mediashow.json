@@ -1,0 +1,35 @@
+{
+ "issue": "1.4.1", 
+ "tracks": [
+  {
+   "animate-begin": "2 beep1 beep\n3 beep1 beep\n4 beep1 beep\n5 beep1 beep\n6 beep1 beep", 
+   "animate-clear": "no", 
+   "animate-end": "", 
+   "background-colour": "", 
+   "background-image": "", 
+   "display-show-background": "yes", 
+   "display-show-text": "yes", 
+   "duration": "", 
+   "links": "", 
+   "message-colour": "#ffffff", 
+   "message-font": "Helvetica 20 bold", 
+   "message-justify": "left", 
+   "message-x": "100", 
+   "message-y": "100", 
+   "plugin": "", 
+   "show-control-begin": "beep /home/pi/pp_home/pp_profiles/beep/media/263133__pan14__tone-beep.wav", 
+   "show-control-end": "", 
+   "text": "Beeps at start using\n Show Control beep command\n\nBeeps during produced by\nanimation command\n\npp-pause input event causes\n a beep using Show Control on event\n\npp-stop event beeps and exits Pi Presents\n using Show Control on Event", 
+   "thumbnail": "", 
+   "title": "Noisy Track", 
+   "track-ref": "", 
+   "track-text": "", 
+   "track-text-colour": "#ffffff", 
+   "track-text-font": "Helvetica 20 bold", 
+   "track-text-justify": "left", 
+   "track-text-x": "0", 
+   "track-text-y": "40", 
+   "type": "message"
+  }
+ ]
+}
