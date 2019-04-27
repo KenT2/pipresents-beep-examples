@@ -1,5 +1,5 @@
 {
- "issue": "1.4.1", 
+ "issue": "1.4.2", 
  "shows": [
   {
    "admin-colour": "white", 
@@ -22,6 +22,7 @@
    "eggtimer-x": "100", 
    "eggtimer-y": "100", 
    "empty-track-ref": "", 
+   "enable-catchup": "yes", 
    "escape-track-ref": "", 
    "freeze-at-end": "yes", 
    "freeze-at-start": "no", 
@@ -93,6 +94,7 @@
    "eggtimer-text": "Loading....", 
    "eggtimer-x": "100", 
    "eggtimer-y": "100", 
+   "enable-catchup": "yes", 
    "first-track-ref": "first", 
    "freeze-at-end": "yes", 
    "freeze-at-start": "no", 
@@ -176,6 +178,7 @@
    "eggtimer-x": "100", 
    "eggtimer-y": "100", 
    "empty-track-ref": "", 
+   "enable-catchup": "yes", 
    "escape-track-ref": "", 
    "freeze-at-end": "yes", 
    "freeze-at-start": "no", 

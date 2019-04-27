@@ -1,5 +1,5 @@
 {
- "issue": "1.4.1", 
+ "issue": "1.4.2", 
  "shows": [
   {
    "audio-speaker": "stereo", 
@@ -15,6 +15,7 @@
    "eggtimer-text": "Loading....", 
    "eggtimer-x": "100", 
    "eggtimer-y": "100", 
+   "enable-catchup": "yes", 
    "first-track-ref": "home", 
    "freeze-at-end": "yes", 
    "freeze-at-start": "no", 
