@@ -1,5 +1,5 @@
 {
- "issue": "1.4.3",
+ "issue": "1.4.4",
  "tracks": [
   {
    "animate-begin": "0 scrollhd scroll \"the cat sat on the mat\"\n0 dac set 100\n0 fourletter string \"ABCD\"",
@@ -167,6 +167,7 @@
    "animate-end": "",
    "background-colour": "",
    "background-image": "",
+   "display-name": "",
    "display-show-background": "yes",
    "display-show-text": "yes",
    "freeze-at-end": "",

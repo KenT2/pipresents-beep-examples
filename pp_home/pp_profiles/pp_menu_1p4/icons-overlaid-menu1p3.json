@@ -1,5 +1,5 @@
 {
- "issue": "1.4.3",
+ "issue": "1.4.4",
  "tracks": [
   {
    "animate-begin": "",
@@ -7,6 +7,7 @@
    "animate-end": "",
    "background-colour": "",
    "background-image": "",
+   "display-name": "",
    "display-show-background": "yes",
    "display-show-text": "yes",
    "freeze-at-end": "yes",
@@ -45,6 +46,7 @@
    "animate-end": "",
    "background-colour": "",
    "background-image": "",
+   "display-name": "",
    "display-show-background": "yes",
    "display-show-text": "yes",
    "freeze-at-end": "yes",
@@ -273,6 +275,7 @@
    "animate-end": "",
    "background-colour": "",
    "background-image": "",
+   "display-name": "",
    "display-show-background": "yes",
    "display-show-text": "yes",
    "freeze-at-end": "yes",
@@ -311,6 +314,7 @@
    "animate-end": "",
    "background-colour": "",
    "background-image": "",
+   "display-name": "",
    "display-show-background": "yes",
    "display-show-text": "yes",
    "freeze-at-end": "yes",

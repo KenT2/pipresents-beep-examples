@@ -1,5 +1,5 @@
 {
- "issue": "1.4.3",
+ "issue": "1.4.4",
  "tracks": [
   {
    "animate-begin": "",
@@ -7,6 +7,7 @@
    "animate-end": "",
    "background-colour": "",
    "background-image": "+/media/xthresh_tn.jpg",
+   "display-name": "",
    "display-show-background": "yes",
    "display-show-text": "yes",
    "freeze-at-end": "None",
@@ -45,6 +46,7 @@
    "animate-end": "",
    "background-colour": "",
    "background-image": "+/media/suits_tn.jpg",
+   "display-name": "",
    "display-show-background": "yes",
    "display-show-text": "yes",
    "freeze-at-end": "None",

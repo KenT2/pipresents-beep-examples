@@ -1,5 +1,5 @@
 {
- "issue": "1.4.3",
+ "issue": "1.4.4",
  "shows": [
   {
    "admin-colour": "#ffffff",
@@ -14,6 +14,7 @@
    "controls": "PIR go",
    "disable-controls": "no",
    "disable-show-control-events": "no",
+   "display-name": "HDMI0",
    "duration": "10",
    "eggtimer-colour": "#ffffff",
    "eggtimer-font": "Helvetica 10 bold",
