@@ -1,5 +1,5 @@
 {
- "issue": "1.4.4",
+ "issue": "1.4.5",
  "tracks": [
   {
    "animate-begin": "0 scrollhd scroll \"the cat sat on the mat\"\n0 dac set 100\n0 fourletter string \"ABCD\"",
@@ -170,23 +170,15 @@
    "display-name": "",
    "display-show-background": "yes",
    "display-show-text": "yes",
-   "freeze-at-end": "",
-   "freeze-at-start": "",
    "links": "",
    "location": "+/media/suits-short.mkv",
-   "omx-audio": "",
-   "omx-max-volume": "",
-   "omx-other-options": "",
-   "omx-volume": "",
-   "omx-window": "",
    "pause-timeout": "",
    "plugin": "",
-   "seamless-loop": "no",
    "show-control-begin": "",
    "show-control-end": "",
    "thumbnail": "",
    "title": "suits-short.mkv + selection",
-   "track-html-background-colour": "white",
+   "track-html-background-colour": "#ffffff",
    "track-html-height": "300",
    "track-html-width": "300",
    "track-ref": "",
@@ -198,7 +190,20 @@
    "track-text-type": "plain",
    "track-text-x": "",
    "track-text-y": "",
-   "type": "video"
+   "type": "vlc",
+   "vlc-aspect-mode": "",
+   "vlc-aspect-ratio": "",
+   "vlc-audio": "",
+   "vlc-crop": "",
+   "vlc-freeze-at-end": "",
+   "vlc-freeze-at-start": "",
+   "vlc-image-duration": "",
+   "vlc-layer": "1",
+   "vlc-max-volume": "",
+   "vlc-other-options": "",
+   "vlc-subtitles": "no",
+   "vlc-volume": "",
+   "vlc-window": ""
   }
  ]
 }

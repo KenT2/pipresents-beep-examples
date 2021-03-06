@@ -1,10 +1,14 @@
 {
- "issue": "1.4.4",
+ "issue": "1.4.5",
  "shows": [
   {
    "audio-speaker": "stereo",
    "background-colour": "",
    "background-image": "",
+   "chrome-freeze-at-end": "yes",
+   "chrome-other-options": "",
+   "chrome-window": "showcanvas 0+0+600*400",
+   "chrome-zoom": "1.0",
    "controls-in-subshows": "no",
    "disable-controls": "no",
    "disable-show-control-events": "no",
@@ -62,6 +66,15 @@
    "track-timeout": "0",
    "transition": "cut",
    "type": "radiobuttonshow",
+   "vlc-aspect-mode": "stretch",
+   "vlc-audio": "default",
+   "vlc-freeze-at-end": "yes",
+   "vlc-freeze-at-start": "no",
+   "vlc-image-duration": "5",
+   "vlc-layer": "1",
+   "vlc-other-options": "",
+   "vlc-volume": "100",
+   "vlc-window": "showcanvas 0+0+400*300",
    "web-window": "warp 300 300 700 700"
   },
   {
